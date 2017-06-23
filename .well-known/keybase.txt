@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/willmz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://willmz.com
+  * I am willmz (https://keybase.io/willmz) on keybase.
+  * I have a public key with fingerprint B6ED 3B0A 6C36 627B 9695  4892 8A43 857D B2E1 154E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c109b08bbe134bbaaf10fbf51754e93e49e230d3260fa968d3544410a809a3ec0a",
+            "fingerprint": "b6ed3b0a6c36627b969548928a43857db2e1154e",
+            "host": "keybase.io",
+            "key_id": "8a43857db2e1154e",
+            "kid": "0101c109b08bbe134bbaaf10fbf51754e93e49e230d3260fa968d3544410a809a3ec0a",
+            "uid": "56ca9c5e763f87270755d84136796219",
+            "username": "willmz"
+        },
+        "service": {
+            "hostname": "willmz.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1498191971,
+    "expire_in": 157680000,
+    "prev": "79c40a56656d5c701812553708db5164756f10c82ad6a56a44a929fdf4544256",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUY3t1AkWTERokGJLggTIl4z7333I8dCXVHcawxKEQYbLdz7z13ubLs
+LvvBQgtKpswAs+JIU0gUZto4WDpE8jFJ0Whf48fEAP5IIVca1ChEPqQmbLrL1I9m
++tn5c+a853me93mfeY9EPaYz6OtNh6o/Ca7eqb98T9QVvtBs9ROiQ64kjH6iBC9e
+2CZjt8dSosqEkSABCSRACiLJiyIGNCOKCCmAVEQFAg4yWKAxI2CKJmWaYkkFCSwv
+05BhGEAinhQQjSUSEemEotqt2OV0qXaPJiuyWKZFErESzbIUJwqsABleoHjE0Dzk
+ZJHCAGjqGrHY4Q4xNHMicuMM1aHVtIdl0d5/4P9n395FOchKSJAg5lha4TmKIzkI
+ZZ4BNMsJLAWEENCNXXZUijW0T7XZSl8jqtMJrVauSjgUa2iOf/1nSI5Sjed0OTwO
+yWHT6sUej9NtDPE8lc5FIBYtf0tYRNUuaxlqjHLscqsOO2EEGlLyqCFNwAg8EIDA
+gXQCVzhVF7aoIQTkWJ7UTqgPLtckOUFiSARZFrJ5MpQ4EvCAgpDmSF4WIWAZDrJa
+ThJPIZnVcIhhkEAJiqwwWjoUZInQVGV2B2FkNZ/Iqmm6VasdebwuTFRH1hniw3R6
+g25JuCG0XbrIZdH/rFzMeLSu+Xr5uyuF9rzAWO+WPdMNC0v2ZCv3zjErYjZHledl
+TaNH6qZGMZaCw2+mfHOJrJmoXXb68QXxudLrtjj9TW7wGEx+RjmzKu1qBfliOE4o
+ap7LNlVtzF2T8rN5m83cpQ+CD/0DJ085For57Jaa2EcdjshfTVeGwtvrz05F6CP/
+mGi4/8RAQ3Djqzt8m5s60u70rvgo4vj6eOeD3ED/0q9nR3vej/CO7o398uEUX3Yh
+2TU98/kbu2ri9LsPYe/Eg5q1cOYlNHdxb0mB59PzJ0xjfud726Nj++WqtD+ffNrc
+3NWa2pmb+Hvv1cncDzKUl78oO3LckpSaNBr4McyA9qUWho2ebnxle9TBW4GeTfXm
+yaHVfZ235wfXJXSNX27N0ZmM3bbM2be+TUnfWmdIn6hty7+0rug338jY3QNZTMex
+lQVgR/XgyZaLvvNrfxq4lVF945ca3VfdLmtba8RIk33E2d++c7klv2qrd3pYOLCh
+br+/MHXo8GyXs6Hi2Sbx7WTfQc/yji1LZ4J55l6daf2JAuMu3anUXvjURHzmO91B
+f+f8viuNyZWJho+tZUWZs+j5DXEx80KCSX+haZpG+htxzvyj3j7hu8DZSZR4297S
+k5Y0t8Zwp/mabaqC+T4rqbZ+2/zQGXPxKuN4yvBn91NawP5zzN32hws3X7+2+2hf
+Tl3wB18O3fYX
+=RWev
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/willmz
+
+==================================================================
+
